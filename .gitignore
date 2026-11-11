@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.*
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.bak
